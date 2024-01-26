@@ -117,6 +117,7 @@ delay (2000);
 4. Hacer la conexion del **LED** y el **Resistor** con la **ESP32** como se muestra en la siguente imagen.
 
 ![](https://github.com/DanielX834/PRACTICA-N6/blob/main/4ConexionLEDS.jpg?raw=true)
+
   **Conexión HC-SR04**
   -VCC --> 5V
   -TRIG --> esp:4
@@ -141,4 +142,11 @@ delay (2000);
 
 Una vez terminado iniciamos simulacion y se observaran los valores como la distancia en y los led´s tendran que encender dependiendo del nivel de agua.
 
-![](
+![](https://github.com/DanielX834/PRACTICA-N6/blob/main/5Resultado1.jpg?raw=true)
+
+![](https://github.com/DanielX834/PRACTICA-N6/blob/main/6Resultado1.jpg?raw=true)
+
+![](https://github.com/DanielX834/PRACTICA-N6/blob/main/7Resultado1.jpg?raw=true)
+
+# Créditos
+Desarrollado por Ing. Daniel Armenta
